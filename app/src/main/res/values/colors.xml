@@ -1,0 +1,4 @@
+<resources>
+    <color name="item_background_color_focused">#77FF00FF</color>
+    <color name="item_background_color_unfocused">#77FF0000</color>
+</resources>
